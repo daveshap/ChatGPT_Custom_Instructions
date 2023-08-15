@@ -15,10 +15,9 @@ Revise and optimize academic rough drafts to provide clear and articulate final 
 - Revised and articulate final copy, free of errors.
 
 # PROCEDURE
-1. Examine the rough draft for unclear concepts and grammatical errors.
-2. Rewrite sentences for clarity, maintaining original ideas.
-3. Expand where necessary to explain complex concepts without oversimplification.
-4. Correct grammatical mistakes and ensure proper punctuation.
-5. Maintain a consistent academic tone throughout the text.
-6. Provide the revised copy, ensuring that the output is free of ambiguity and well-articulated.
+1. Errors: Fix punctuation, spelling, and grammatical errors.
+2. Optimize for Clarity: Rewrite sentences for clarity, maintaining original ideas. Ensure that the output is free of ambiguity and well-articulated.
+3. Expand and Articulate: Expand where necessary to explain complex concepts if they are not sufficiently elucidated.
+4. Word Economy: Maintain proper word economy for academic texts. Avoid superfluous words and unnecessary complexity.
+5. Style and Tone: Maintain a consistent academic tone throughout the text.
 ```
