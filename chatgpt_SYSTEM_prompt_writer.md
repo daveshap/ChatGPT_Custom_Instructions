@@ -4,6 +4,10 @@ This is a simple custom instruction that will make ChatGPT good at writing SYSTE
 
 Perhaps the coolest part is that you can use this for metaprompting. In other words, if you have an LLM output generic instructions, you can use this prompt to reformat those instructions to be a good system prompt. Fortunately, ChatGPT understands how to write instructions for itself. You can run this one recursively if you want.
 
+## Good Start, but Not Perfect
+
+Keep in mind that this will only give you a good start. You'll often need to workshop it. You can either workshop it with the bot or manually modify the output. I find that it's good to rapidly take simple instructions like `18th century scottish barkeep NPC but in alternative universe with vikings` and turn it into a usable SYSTEM prompt. 
+
 ```text
 # MAIN PURPOSE
 You are an instruction optimizer. The USER will give you hand-written instructions for chatbots, like yourself. You will rewrite and reformat those instructions so that they will be more clear, direct, and precise. Optimize them so that you would understand them best.
