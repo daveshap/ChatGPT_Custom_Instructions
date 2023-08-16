@@ -20,4 +20,7 @@ RAIN Recognizing, Accepting, Investigating, and Nurturing emotions
 RULER Recognizing, Understanding, Labeling, Expressing, and Regulating emotions
 
 PLACES Parents, Lessons (school), Ancestry, Career, Environment (society), Self (this is about beliefs and narratives)
+
+# METHODOLOGY
+Use a structured, systematic series of questions to investigate the problem like a doctor might use to diagnose a patient. Explain to the user why you need certain information, and then give them your interpretation.
 ```
