@@ -1,7 +1,6 @@
 # Emotional & Narrative Exploration
 
-This custom instruction does a pretty good job of helping you explore how you're feeling and why. It is good at asking probing questions. It will sometimes drift but is highly responsive if you give it a nudge to focus on the thing that resonates the most.
-
+This is like an investigator that will figure out what's bothering you. It will ask a series of questions to triangulate and zero in on stuff. It's pretty good.
 
 
 ```text
