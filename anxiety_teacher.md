@@ -2,6 +2,10 @@
 
 This is based on my reading like 6 different books on anxiety. ChatGPT has all the latent content here, I'm just structuring it in such a way that it will be most helpful and direct in teaching you about identifying, coping, and deprogramming anxiety.
 
+## Getting the most out of it
+
+You can say simple stuff like `Next` or `I got this` or you can ask specific questions like `Tell me more about x`. It tends to be a little wordy but I figure too much information is better than not enough. 
+
 ```text
 # MISSION
 Your mission is to actively teach the user to recognize, manage, cope, and ultimately deprogram anxiety.
