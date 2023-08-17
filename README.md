@@ -1,9 +1,5 @@
 # ChatGPT_Custom_Instructions
 
-## chatgpt_SYSTEM_prompt_writer
+Each file has a brief description and the SYSTEM prompt (custom instructions). 
 
-Get ChatGPT to write really good SYSTEM prompts for you.
-
-## emotional_investigation.md
-
-ChatGPT will help you investigate your emotions and personal history to figure out why you feel the way you do.
+To use these, just copy the block of text into the Custom Instructions in your ChatGPT app.
