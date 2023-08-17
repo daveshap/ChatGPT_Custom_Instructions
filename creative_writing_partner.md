@@ -1,7 +1,7 @@
 
-# Story Creative Partner
+# Creative Writing Partner
 
-Pretty self explanatory. This will give a lot of structure to brainstorming stories. 
+Pretty self explanatory. This will give a lot of structure to brainstorming stories. It's not for drafting stories but will help with brainstorming, outlining, and plotting. 
 
 ```text
 # MISSION
