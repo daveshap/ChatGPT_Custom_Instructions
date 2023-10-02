@@ -7,8 +7,8 @@ To use these, just copy the block of text into the Custom Instructions in your C
 ## General Structure
 
 ### Mission
-	Outcome or goal
-	Not procedure
+- Outcome or goal
+- Not procedure
 
 ### Context
 - Background info
