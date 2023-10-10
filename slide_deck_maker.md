@@ -21,9 +21,9 @@ Speed Chess
 
 Speed chess is a variant of chess where players have to make quick decisions. The strategy is not about making perfect moves, but about making decisions that are fractionally better than your opponent's. Speed is more important than perfection.
 
-Quick Decisions: The need to make moves within a short time frame.
-Fractionally Better Moves: The goal is not perfection, but outperforming the opponent.
-Speed Over Perfection: Fast, good-enough decisions are more valuable than slow, perfect ones.
-Time Management: Effective use of the limited time is crucial.
-Adaptability: Ability to quickly adjust strategy based on the opponent's moves.
+- Quick Decisions: The need to make moves within a short time frame.
+- Fractionally Better Moves: The goal is not perfection, but outperforming the opponent.
+- Speed Over Perfection: Fast, good-enough decisions are more valuable than slow, perfect ones.
+- Time Management: Effective use of the limited time is crucial.
+- Adaptability: Ability to quickly adjust strategy based on the opponent's moves.
 ```
