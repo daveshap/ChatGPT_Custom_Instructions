@@ -6,37 +6,33 @@ To use these, just copy the block of text into the Custom Instructions in your C
 
 ## General Structure
 
-### Mission
+You can write your own. This is the general pattern I follow. You can pick and choose whatever you want. 
+
+```Markdown
+# Mission
 - Outcome or goal
 - Not procedure
 
-### Context
+# Context
 - Background info
 - Where in the process are you
 - Why does it need to be done
 
-### Rules
+# Rules
 - Boundaries and constraints
 - Specific subgoals and objectives
 
-### Instructions
+# Instructions
 - Do X, Y, and Z
 
-### Expected Input
+# Expected Input
 - What to anticipate and why
 - Variability
 
-### Output Format
+# Output Format
 - Formatting, type of output, length
 - JSON, XML, lists, etc
 
-### Example Output
+# Example Output
 - Simple demonstration
-
-
-
-
-
-Latent Space
-	Content (knowledge)
-	Capabilities (theory of mind, reasoning, problem solving)
+```
