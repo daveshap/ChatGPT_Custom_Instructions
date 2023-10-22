@@ -1,6 +1,19 @@
 # Sparse Priming Representation
 
+There are only a handful of ways to "teach" LLMs, and all have limitations and strengths.
 
+1. Initial bulk training: Ludicrously expensive
+2. Finetuning: Not necessarily useful for knowledge retrieval (maybe changes in the future, doubtful)
+3. Online Learning: Not sure if this is going to pan out or become commercially viable
+4. In-context Learning: Presently, the only viable solution
+
+Because of this, RAG (retrieval augmented generation) is all the rage right now. Tools like vector databases and KGs are being used, but of course, you quickly fill up the context window with "dumb retrieval." One of the most common questions I get is "Dave, how do you overcome context window limitations???" The short answer is: YOU DON'T STOP WASTING YOUR TIME. 
+
+There is one asterisk there, though. 
+
+Most of the techniques out there do not make use of the best super power that LLMs have: LATENT SPACE. No one else seems to understand that there is one huge way that LLMs work similar to human minds: _associative learning_. Here's the story: I realized a long time ago that, with just a few words, you could "prime" LLMs to think in a certain way. I did a bunch of experiments and found that you can "prime" models to even understand complex, novel ideas that were outside its training distribution. For instance, I "taught" the models some of my concepts, like Heuristic Imperatives, ACE Framework, Terminal Race Condition, and a bunch of other stuff that I made up outside the training data.
+
+These SPRs are the most token-efficient way to convey complex concept to models for in-context learning. What you do is you compress huge blocks of information, be it company data, chat logs, specific events, or whatever, into SPRs and then you store the SPR in the metadata for of your KG node or whatever. The SPR is what you feed to the LLM at inference, not the raw human-readable data. 
 
 ```markdown
 # MISSION
