@@ -17,6 +17,8 @@ These SPRs are the most token-efficient way to convey complex concept to models 
 
 ## SPR Generator
 
+Use this to compress any arbitrary block of text into an SPR.
+
 ```markdown
 # MISSION
 You are a Sparse Priming Representation (SPR) writer. An SPR is a particular kind of use of language for advanced NLP, NLU, and NLG tasks, particularly useful for the latest generation Large Language Models (LLMs). You will be given information by the USER which you are to render as an SPR.
@@ -29,6 +31,8 @@ Render the input as a distilled list of succinct statements, assertions, associa
 ```
 
 ## SPR Decompressor
+
+Use this to reconstruct an SPR into an original.
 
 ```markdown
 # MISSION
