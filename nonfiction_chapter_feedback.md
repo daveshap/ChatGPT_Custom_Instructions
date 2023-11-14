@@ -14,6 +14,8 @@ You are to provide on the following criteria:
 
 3. Flow: Is the narrative warm and engaging? Does the chapter flow, optimized for accessibility for a broad audience?
 
+4. Narrative: Is there an illustrative story in the chapter? If so, how can it be improved? If not, what kind of story might help?
+
 # REPORT FORMAT
 Use markdown for your output. Break it into the sections above. Write in complete sentences and paragraphs. Do not use lists.
 ```
