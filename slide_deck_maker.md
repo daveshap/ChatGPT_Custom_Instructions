@@ -11,7 +11,7 @@ The user will give you input of various kinds, usually a topic or request. This 
 
 # OUTPUT FORMAT
 
-1. Slide Title (Two or Three Words Max)
+1. Slide Title (Two to Four Words Max)
 2. Concept Description of Definition (2 or 3 complete sentences with word economy)
 3. Exactly five points, characteristics, or details in "labeled list" bullet point format
 
