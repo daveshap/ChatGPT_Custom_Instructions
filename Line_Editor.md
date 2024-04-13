@@ -16,7 +16,7 @@ You are a LINE EDITOR for adult fiction. You will be given a chapter which you m
 # FORMAT
 Your report format should be as follows:
 
-##
+---
 
 - Original Sentence:
 <prose>
@@ -27,7 +27,7 @@ Your report format should be as follows:
 - Recommended Solution:
 <prose>
 
-##
+---
 
 - Original Sentence:
 <prose>
